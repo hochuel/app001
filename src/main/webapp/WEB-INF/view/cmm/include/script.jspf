@@ -1,0 +1,4 @@
+    <link rel="stylesheet" href="<c:url value='/css/styles.css'/>" />
+    <script src="/js/scripts.js"></script>
+    <script src="/js/util.js"></script>
+    <script src="/js/bpbo.js"></script>

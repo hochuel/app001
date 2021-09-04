@@ -1,0 +1,15 @@
+    <link rel="stylesheet" href="<c:url value='/webcontents/css/styles.css'/>" />
+    <link rel="stylesheet" href="<c:url value='/webcontents/vendors/jquery-ui/jquery-ui.min.css'/>" />
+    <link rel="stylesheet" href="<c:url value='/webcontents/vendors/mCustomScrollbar/jquery.mCustomScrollbar.css'/>" />
+    <link rel="stylesheet" href="<c:url value='/webcontents/vendors/monthpicker/MonthPicker.css'/>" />
+    
+    
+    <script src="/webcontents/vendors/jquery/jquery-1.11.0.min.js"></script>
+    <script src="/webcontents/vendors/jquery/jquery.form.min.js"></script>
+    <script src="/webcontents/vendors/jquery-ui/jquery-ui.min.js"></script>
+    <script src="/webcontents/vendors/placeholder/jquery.placeholder.min.js"></script>
+    <script src="/webcontents/vendors/mCustomScrollbar/jquery.mCustomScrollbar.js"></script>
+    <script src="/webcontents/vendors/monthpicker/MonthPicker.js"></script>
+    <script src="/webcontents/vendors/mousewheel/jquery.mousewheel.min.js"></script>
+    <script src="/webcontents/js/scripts.js"></script>
+    <script src="/webcontents/js/util.js"></script>
